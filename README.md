@@ -11,7 +11,7 @@ Small Developer
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wowksies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
@@ -19,5 +19,5 @@ Small Developer
 
 ### Info Stats
 * 🕳️ I’m currently working on **Nohing**
-* 🤖 Learning more about **C++ **
+* 🤖 Learning more about **C++**
 * 🧑‍💻 I have most knowledge abot **Web Dev**
