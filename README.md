@@ -11,9 +11,10 @@ Small Developer
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wowksies&theme=tokyonight)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wowksies&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ---
 
@@ -21,3 +22,5 @@ Small Developer
 * 🕳️ I’m currently working on **Nohing**
 * 🤖 Learning more about **C++**
 * 🧑‍💻 I have most knowledge abot **Web Dev**
+
+![](https://komarev.com/ghpvc/?username=wowksies&color=00599C&style=flat-square&label=PROFILE+VIEWS)
