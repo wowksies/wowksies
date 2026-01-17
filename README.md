@@ -2,6 +2,8 @@
 
 # yo, I'm KAYAZ ![yo](https://github.com/user-attachments/assets/de57e113-9105-47dc-b9d8-d69fb73456a3)
 
+[![Visit My Site](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00599C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kayaz.vercel.app/)
+
 Small Developer 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
