@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm KAYAZ
+# yo, I'm KAYAZ ![yo](https://github.com/user-attachments/assets/de57e113-9105-47dc-b9d8-d69fb73456a3)
 
 Small Developer 
 
@@ -11,7 +11,7 @@ Small Developer
 
 ---
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=wowksies&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wowksies&theme=tokyonight)
 
 </div>
 
