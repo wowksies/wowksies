@@ -21,8 +21,8 @@ Small Developer
 ---
 
 ### Info Stats
-* 🕳️ I’m currently working on **Nohing**
+* 🕳️ I’m currently working on **Nothing**
 * 🤖 Learning more about **C++**
-* 🧑‍💻 I have most knowledge abot **Web Dev**
+* 🧑‍💻 I have most knowledge about **Web Dev**
 
 ![](https://komarev.com/ghpvc/?username=wowksies&color=00599C&style=flat-square&label=PROFILE+VIEWS)
