@@ -21,7 +21,7 @@ Small Developer
 ---
 
 ### Info Stats
-* 🕳️ I’m currently working on **Nothing**
+* 🕳️ I’m currently working on **a CS2 external cheat**
 * 🤖 Learning more about **C++**
 * 🧑‍💻 I have most knowledge about **Web Dev**
 
