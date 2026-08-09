@@ -21,8 +21,8 @@ Small Developer
 ---
 
 ### Info Stats
-* 🕳️ I’m currently working on **a CS2 external cheat**
-* 🤖 Learning more about **C++**
+* 🕳️ I’m currently working on **a R6 external**
+* 🤖 Learning more about **encryption bypasses**
 * 🧑‍💻 I have most knowledge about **Web Dev**
 
 ![](https://komarev.com/ghpvc/?username=wowksies&color=00599C&style=flat-square&label=PROFILE+VIEWS)
