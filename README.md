@@ -21,8 +21,7 @@ Small Developer
 ---
 
 ### Info Stats
-* 🕳️ I’m currently working on **a R6 external**
-* 🤖 Learning more about **encryption bypasses**
-* 🧑‍💻 I have most knowledge about **Web Dev**
+* 🕳️ I’m currently working on **a R6 Internal (kayaz.xyz)**
+* 🤖 Learning more about **Anvil engine infrastructure and R6 architecture**
 
 ![](https://komarev.com/ghpvc/?username=wowksies&color=00599C&style=flat-square&label=PROFILE+VIEWS)
